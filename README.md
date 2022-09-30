@@ -1,3 +1,4 @@
+<img width="1437" alt="Screenshot 2022-09-30 at 1 16 14 PM" src="https://user-images.githubusercontent.com/101391984/193219082-aba904d1-487c-426f-b60c-b63d98dbffa3.png">
 # Geekbuying
 
 We at Geekbuying are all about making our
